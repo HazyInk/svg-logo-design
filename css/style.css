@@ -1,0 +1,31 @@
+main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h1, h3 {
+  font-family: 'Croissant One', cursive;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  color: rgb(46, 116, 169);
+}
+
+.nose:hover {
+  fill: rgb(255, 203, 124);
+}
+
+.horns {
+  fill: bisque;
+}
+
+.markings {
+  fill: rgb(255, 246, 234);
+}
+
+.flames {
+  fill: rgb(245, 194, 112);
+}
